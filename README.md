@@ -1,2 +1,3 @@
 # .github
-GitHub settings for AnimeThemes
+
+Introduction & GitHub settings for AnimeThemes
